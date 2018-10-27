@@ -6,6 +6,7 @@ This MinesweeperPy came to life during a python project in which the goal was to
 * Play a game of minesweeper 
 * Calculate yout time and check if you've made any progress with Rankings holding your past runs
 * Some fancy handmade animations (like mouse higlighting over buttons) which were made only with image manipulations. Because using already built in ones is not hardcore enough :P.  
+* Some code / instructions are in Croatian :/, but it should be intuitive
 
 ### Requirements:
 * Python 3.x
