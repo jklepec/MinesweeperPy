@@ -22,7 +22,7 @@ Steps:
 MinesweeperPy was made with Python 3 using Tkinter GUI(Graphical User Interface) which is a standard python interface and few hours of fun coding :)
 
 ### Screenshots
-![Screenshot of ACStand](http://prntscr.com/lb8mzh)
+![Screenshot of ACStand](https://i.postimg.cc/y6L99nJZ/drekec.png)
 
 ### Bonus Challenge
 Try to beat Easy under 10 seconds 
